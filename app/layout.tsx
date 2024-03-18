@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Next.js</title>
+        <title>Welcome to my world!</title>
       </head>
       <body className={inter.className}>
         {children}
